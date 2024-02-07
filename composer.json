@@ -1,0 +1,15 @@
+{
+    "name": "brunolafayette/tita_beneficios",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bruno.Lafayette",
+            "email": "brunolafayette@rocketmail.com"
+        }
+    ],
+    "require": {}
+}
