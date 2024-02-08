@@ -30,6 +30,15 @@
     font-weight: bold;
 }
 
+.title-small-bold{
+    font-size: small;
+    font-weight: bold;
+}
+
+.title-small{
+    font-size: small;
+}
+
 .text-bold{
     font-weight: bold;
 }
@@ -52,6 +61,11 @@
 .text-white{
     color: white;
 }
+
+.text-gray{
+    color: gray;
+}
+
 
 /* Container */
 .container-center{
