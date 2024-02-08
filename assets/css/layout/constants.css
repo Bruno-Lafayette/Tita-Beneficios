@@ -1,0 +1,64 @@
+/* Titles */
+
+.title-xx-larger{
+    font-size: xx-large;
+    font-weight:400;
+}
+
+.title-xx-larger-bold{
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.title-x-larger{
+    font-size:x-large;
+    font-weight:400;
+}
+
+.title-x-larger-bold{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.title-medium{
+    font-size: medium;
+    font-weight: 600;
+}
+
+.title-medium-bold{
+    font-size: medium;
+    font-weight: bold;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+/* Space */
+.space-top-32{
+    margin-top: 32px;
+}
+
+
+.space-top-16{
+    margin-top: 16px;
+}
+
+/* Colors */
+.text-orange{
+    color: var(--color-orange);
+}
+
+.text-white{
+    color: white;
+}
+
+/* Container */
+.container-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 64px;
+}

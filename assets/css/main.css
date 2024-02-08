@@ -1,0 +1,14 @@
+@import './base/reset.css';
+@import './base/thypography.css';
+@import './base/variables.css';
+@import './layout/nav.css';
+@import './layout/footer.css';
+@import './layout/button.css';
+
+/* Layout Páginas */
+@import './layout/pages/home.css';
+@import './layout/pages/about.css';
+
+
+/* Suport */
+@import './layout/constants.css';

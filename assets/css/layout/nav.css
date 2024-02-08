@@ -1,0 +1,49 @@
+nav {
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+}
+
+#logo-menu{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+#option-menu{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+}
+
+#buttons-menu{
+    width: 20%;
+    display: flex;
+    align-items: flex-start;
+}
+
+nav ul {
+    display: flex;
+    margin: 16px;
+}
+
+nav li{
+    padding: 8px;
+}
+
+nav img{
+    height: 80px;
+    width: auto;
+}
+
+nav a{
+    color: white;
+}
+
+nav .option-active{
+    color: var(--color-orange);
+    font-weight: 700;
+}
