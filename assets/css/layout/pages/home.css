@@ -1,0 +1,46 @@
+#container-banner-home{
+    background-image: url('/assets/img/amigos-durante-a-sessao-de-estudo-aprendendo-e-mostrando-o-sinal-de-paz.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+#container-banner-home section{
+    background: linear-gradient( to right, rgba(0, 0, 0, 0.926) 40%, rgba(0, 0, 0, 0.517), rgba(255, 255, 255, 0.479));
+    height: 100%;
+}
+
+#container-banner-home h1 {
+    padding-top: 10%;
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-weight:bolder;
+}
+
+#container-banner-home p {
+    align-items: center;
+    padding-left: 8%;
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+#container-banner-info{
+    display: flex;
+    flex-direction: column;
+    height: 60%;
+    justify-content: center;
+    line-height: 1.2;
+}
+
+#container-banner-buttons a{
+    color: white;
+    width: 100px;
+}
+
+#container-banner-buttons{
+    margin-top: 24px;
+    display: flex;
+    flex-direction:row;
+    padding-left: 8%;
+}
